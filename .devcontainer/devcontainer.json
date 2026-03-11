@@ -8,5 +8,5 @@
 	"workspaceFolder": "/workspace/exercise", 
 	"workspaceMount": "source=${localWorkspaceFolder},target=/workspace,type=bind,consistency=cached",
 	
-	"postCreateCommand": "$/.devcontainer/setupworkspace.sh",
+	"postCreateCommand": "pip install uv && cd src"
 }
