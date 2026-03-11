@@ -29,7 +29,7 @@ In order to use this;
 2. Open a codespace on the `master` branch
 
 ### 1. Git Basics
-0. Run the FastAPI application
+0. Run the FastAPI application using `uv run fastapi dev` (make sure your terminal is in the `/src/` folder).
 1. Create a new route in the `app.py` file, and sync your changes
    After this, commit and push your changes to the master branch
 2. Pull changes from the remote
