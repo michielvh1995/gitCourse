@@ -12,3 +12,6 @@ Na een tijdje moet je output er zo uitzien:
 Als je hierin met ctrl ingedrukt op de `http://127.0.0.1:8000` drukt open je de app.
 
 Door de URL waar je naar toegestuurd wordt te appenden met `/docs` (let erop, geen extra `/` op het einde!) kan je de Swagger UI zien, met daarin alle API endpoints uitgelegd.
+
+## Code standards
+In this repo we should format our code as Pep8
